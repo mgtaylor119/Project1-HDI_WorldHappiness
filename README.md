@@ -1,4 +1,4 @@
-Happiness and Development: The Unlikely Power Couple
+### Happiness and Development: The Unlikely Power Couple
 The aim of our project is to provide valuable insights into the overall well-being and quality of life in different countries. 
 
 Our analysis combines data from The World Happiness Report and The Human Development Index (HDI) to uncover possible relationships and trends.
