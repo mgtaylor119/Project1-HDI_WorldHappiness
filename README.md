@@ -30,7 +30,7 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5.png?raw=true)
 
 * 2021 Human Development Bottom 5<br>
-![image] insert bottom 5 dataframe
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5.png?raw=true)
 
 * Human Development Change Over Time (10 Years)<br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5_linegraph.png?raw=true)
