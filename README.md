@@ -28,7 +28,7 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Life_Expectancy_Happiness_Linear_Regression.png?raw=true)
 
 * Education vs. Happiness Index Linear Regression Plot<br>
-![image] insert scatter plot
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Education_Happiness_Linear_Regression.png?raw=true)
 
 * Income vs. Happiness Index Linear Regression Plot<br>
 ![image] insert scatter plot
