@@ -24,14 +24,15 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 ![image] insert line plot
 
 **Part 3: Happiness Index vs. Human Development Index (HDI) Components Linear Regression**<br>
-* Life Expectancy vs. Happiness Index Linear Regression Plot<br>
+
+Life Expectancy vs. Happiness Index Linear Regression Plot<br><br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Life_Expectancy_Happiness_Linear_Regression.png?raw=true)
 
-* Education vs. Happiness Index Linear Regression Plot<br>
+Education vs. Happiness Index Linear Regression Plot<br><br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Education_Happiness_Linear_Regression.png?raw=true)
 
-* Income vs. Happiness Index Linear Regression Plot<br>
-![image] insert scatter plot
+Income vs. Happiness Index Linear Regression Plot<br><br>
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Income_Happiness_Linear_Regression.png?raw=true)
 
 **Part 4: Happiness Rank Regional Disparities**<br>
 * Happiness Around the World<br>
