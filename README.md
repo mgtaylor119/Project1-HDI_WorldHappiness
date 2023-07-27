@@ -4,6 +4,7 @@ The aim of our project is to provide valuable insights into the overall well-bei
 Our analysis combines data from The World Happiness Report and The Human Development Index (HDI) to uncover possible relationships and trends.
 
 **Part 1: Components of Happiness Index and Regional Geomapping**<br>
+* Happiness 
 * Happiness Around the World<br>
 ![image] insert Geomapping API
 
