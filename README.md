@@ -34,6 +34,7 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 
 * Human Development Change Over Time (10 Years)<br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5_linegraph.png?raw=true)
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5_linegraph.png?raw=true)
 
 **Part 4: Happiness Rank vs. Human Development Index (HDI) Correlation**<br>
 * Scatter plot showing _________ <br>
