@@ -23,14 +23,14 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 * Human Development Change Over Time (10 Years)<br>
 ![image] insert line plot
 
-**Part 3: Happiness Rank vs. Human Development Index (HDI) Components Linear Regression**<br>
-* Life Expectancy vs. Happiness Rank Linear Regression Plot<br>
+**Part 3: Happiness Index vs. Human Development Index (HDI) Components Linear Regression**<br>
+* Life Expectancy vs. Happiness Index Linear Regression Plot<br>
 ![image] insert scatter plot
 
-* Education vs. Happiness Rank Linear Regression Plot<br>
+* Education vs. Happiness Index Linear Regression Plot<br>
 ![image] insert scatter plot
 
-* Income vs. Happiness Rank Linear Regression Plot<br>
+* Income vs. Happiness Index Linear Regression Plot<br>
 ![image] insert scatter plot
 
 **Part 4: Happiness Rank Regional Disparities**<br>
