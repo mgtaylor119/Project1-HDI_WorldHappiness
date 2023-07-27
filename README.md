@@ -27,7 +27,7 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 
 **Part 3: Human Development Time Series Analysis**<br>
 * 2021 Human Development Top 5<br>
-![image]
+![image] (https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5.png?raw=true)
 
 * 2021 Human Development Bottom 5<br>
 ![image] insert bottom 5 dataframe
