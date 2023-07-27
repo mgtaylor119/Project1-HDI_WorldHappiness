@@ -25,7 +25,9 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 
 **Part 3: Happiness Index vs. Human Development Index (HDI) Components Linear Regression**<br>
 
-Life Expectancy vs. Happiness Index Linear Regression Plot<br><br>
+* **Life Expectancy vs. Happiness Index Linear Regression Plot**<br>
+  *The linear regression line indicates a positive correlation between Life Expectancy and Happiness. The positive slope of 5.57 suggests that that, on average, for each one-unit increase in the Happiness Index, there is an expected increase of 5.57 years in Life Expectancy at Birth. In contrast, as the Happiness Index decreases (indicating lower happiness levels), the average life expectancy tends to decrease. The relationship between Life Expectancy and Happiness is statistically significant as indicated by the r-value of 0.7658840088647312, showing a relatively strong correlation between the two variables.*<br>
+
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Life_Expectancy_Happiness_Linear_Regression.png?raw=true)
 
 Education vs. Happiness Index Linear Regression Plot<br><br>
