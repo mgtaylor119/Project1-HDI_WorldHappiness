@@ -27,13 +27,14 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 
 **Part 3: Human Development Time Series Analysis**<br>
 * 2021 Human Development Top 5<br>
-![image] insert top 5 dataframe
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5.png?raw=true)
 
 * 2021 Human Development Bottom 5<br>
-![image] insert bottom 5 dataframe
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5.png?raw=true)
 
 * Human Development Change Over Time (10 Years)<br>
-![image] insert line plot
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5_linegraph.png?raw=true)
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5_linegraph.png?raw=true)
 
 **Part 4: Happiness Rank vs. Human Development Index (HDI) Correlation**<br>
 * Scatter plot showing _________ <br>
