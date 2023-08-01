@@ -6,6 +6,13 @@ A Geological map showing how as the happines decreases the country marker grows 
 * Geomapping that shows Happiness Values around the world<br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Screenshot%202023-07-30%20184212.png?raw=true)
 
+An organized dataframe showing the top five happiest countries based on their ranking
+![Screenshot 2023-07-31 201003](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/134963927/66429086-aff0-4f6e-8cd3-23276979664f)
+
+An organized dataframe showing the five least happiest countries based on their ranking
+![Screenshot 2023-07-31 201011](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/134963927/13bc94bd-8ffe-4143-954b-d2781072d252)
+
+
 **Part 2: Happiness Rank vs. Human Development Index (HDI) Correlation**<br>
 * Scatter plot showing a positive correlation between happiness and human development.
 *As the Happiness Index increases, so does the HDI showing that they are both accurately measured.*<br>
