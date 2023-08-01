@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 # other ignores
 .DS_Store
+api_keys.ipynb
 .Python
 build/
 develop-eggs/
