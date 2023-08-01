@@ -32,7 +32,11 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 * 2021 Human Development Bottom 5<br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5.png?raw=true)
 
-* Human Development Change Over Time (10 Years)<br>
+* **Human Development Change Over Time (10 Years)<br>
+  *The time series for the Top 5 countries shows a steading incline, but does show a dip in 2020. The theory is that the onset of the Covid Pandemic cause that dip.*<br>
+
+   *The time series for the Bottom 5 countries does not show a steady trejectory, however they too have a dip in 2020.*<br>
+   
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5_linegraph.png?raw=true)
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5_linegraph.png?raw=true)
 
