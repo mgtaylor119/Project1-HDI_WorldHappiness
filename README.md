@@ -32,16 +32,20 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 * 2021 Human Development Bottom 5<br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5.png?raw=true)
 
-* Human Development Change Over Time (10 Years)<br>
+* **Human Development Change Over Time (10 Years)<br>
+  *The time series for the Top 5 countries shows a steading incline, but does show a dip in 2020. The theory is that the onset of the Covid Pandemic cause that dip.*<br>
+
+   *The time series for the Bottom 5 countries does not show a steady trejectory, however they too have a dip in 2020.*<br>
+   
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_top_5_linegraph.png?raw=true)
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5_linegraph.png?raw=true)
 
 **Part 4: Happiness Rank vs. Human Development Index (HDI) Correlation**<br>
-* Scatter plot showing _________ <br>
-![image] insert scatter plot
+* Scatter plot showing that there is a positive correlation between happiness and human development <br>
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/135649789/1f60c5d8-ccca-41c8-a248-eeeef3a66832)
 
 * Happiness and Human Development Top 5<br>
-![image] insert top 5 dataframe
+ ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Education_Happiness_Linear_Regression.png)
 
 * Happiness and Human Development Bottom 5<br>
 ![image] insert bottom 5 dataframe
