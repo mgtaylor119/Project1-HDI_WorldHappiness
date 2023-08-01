@@ -45,7 +45,7 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/135649789/1f60c5d8-ccca-41c8-a248-eeeef3a66832)
 
 * Happiness and Human Development Top 5<br>
-  
+ ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Education_Happiness_Linear_Regression.png)
 
 * Happiness and Human Development Bottom 5<br>
 ![image] insert bottom 5 dataframe
