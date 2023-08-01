@@ -6,7 +6,7 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 **Part 1: Components of Happiness Index and Regional Geomapping**<br>
 * Happiness 
 * Happiness Around the World<br>
-![image] insert Geomapping API
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Screenshot%202023-07-30%20184212.png?raw=true)
 
 **Part 2: Components of HDI vs. Happiness Linear Regression Models**<br>
 
