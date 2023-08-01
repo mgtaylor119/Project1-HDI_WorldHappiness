@@ -41,11 +41,11 @@ Our analysis combines data from The World Happiness Report and The Human Develop
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/hdi_bottom_5_linegraph.png?raw=true)
 
 **Part 4: Happiness Rank vs. Human Development Index (HDI) Correlation**<br>
-* Scatter plot showing _________ <br>
-![image] insert scatter plot
+* Scatter plot showing that there is a positive correlation between happiness and human development <br>
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/135649789/1f60c5d8-ccca-41c8-a248-eeeef3a66832)
 
 * Happiness and Human Development Top 5<br>
-![image] insert top 5 dataframe
+  
 
 * Happiness and Human Development Bottom 5<br>
 ![image] insert bottom 5 dataframe
