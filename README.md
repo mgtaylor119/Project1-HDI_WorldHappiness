@@ -46,7 +46,7 @@ Our project focuses on the industry of Health and Well-being using data gathered
 * **Income vs. Happiness Index Correlation**<br>
   *The positive slope of the regression line (14451.34) indicates a direct relationship between Income and Happiness. For each one-unit increase in the Happiness Index, the Income Per Capita is expected to increase by 14,451.34 (approximately $14,451.34). Conversely, has the Happiness Index decreases, the Gross National Income Per Capita tends to decrease. The relationship between Income and Happiness is statistically significant as indicated by the r-value of 0.7745149054243162, showing a relatively strong correlation between the two variables.*<br>
   
-![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Income_Happiness_Linear_Regression.png?raw=true)
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Income_Happiness_Linear_Regression.png?raw=true)
 
 **Analysis Summary**<br>
   *While the World Happiness Index and the Human Development Index both aim to measure well-being and progress, they approach the concept from different angles. Our research found positive correlations between the two data sets, where factors like better health, education, and income opportunities can contribute to increased well-being; however, they are not directly interchangeable, as a country with high human development may or may not necessarily have the highest levels of happiness and vice versa as shown in our various DataFrames.*<br>
