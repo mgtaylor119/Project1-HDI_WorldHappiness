@@ -41,7 +41,7 @@ Our project focuses on the industry of Health and Well-being using data gathered
 * **Education vs. Happiness Index Correlation**<br>
   *The linear regression line indicates a moderate, positive correlation between Education and Happiness. The positive slope of 2.11 suggests that as the Happiness Index increases (higher happiness levels), there is a moderate tendency for the average years of schooling to increase. In general, countries with higher Happiness Index scores tend to have higher average years of schooling, and countries with lower Happiness Index scores tend to have lower average years of schooling. The relationship between Education and Happiness is statistically significant as indicated by the r-value of 0.6985499956715034, showing a moderate correlation between the two variables.*<br>
   
-![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/Rachaels_Branch/images/Education_Happiness_Linear_Regression.png?raw=true)
+![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Education_Happiness_Linear_Regression.png?raw=true)
 
 * **Income vs. Happiness Index Correlation**<br>
   *The positive slope of the regression line (14451.34) indicates a direct relationship between Income and Happiness. For each one-unit increase in the Happiness Index, the Income Per Capita is expected to increase by 14,451.34 (approximately $14,451.34). Conversely, has the Happiness Index decreases, the Gross National Income Per Capita tends to decrease. The relationship between Income and Happiness is statistically significant as indicated by the r-value of 0.7745149054243162, showing a relatively strong correlation between the two variables.*<br>
