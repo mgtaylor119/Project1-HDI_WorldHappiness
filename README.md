@@ -2,7 +2,7 @@
 Our project focuses on the industry of Health and Well-being using data gathered from the World Happiness Report and the Human Development Index.  The World Happiness Index is an annual report that ranks and analyzes the happiness and well-being of countries based on various factors such as income, social support, life expectancy, freedom, generosity, and corruption. The Human Development Index is an annual report that uses things like standard of living (income), health(life expectancy), and education (years of schooling) to determine these scores. Our visual analysis uses world data from both indices and Geoapify to uncover possible relationships and trends, allowing us to view well-being from both subjective and objective dimensions.
 
 **Part 1: Happiness Index and Geoapify**<br>
-* Geomapping that shows Happiness Values around the world<br>
+* **Geo Mapping Happiness Values Around the World**<br>
  *This geological map was used to showcase happiness/unhappiness clustering patterns using a color scale to uncover any correlations between happiness levels and geographical locations. The happiest countries are the lightest in color and the smallest in size. Levels of happiness decrease as the country marker grows and gets darker, showing the general happiness rank on a global scale. The map shows that Scandinavian countries tend to be the happiest, while countries in Africa tend to be the least happy.*<br>
 ![image](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/blob/main/images/Screenshot%202023-07-30%20184212.png?raw=true)
 
