@@ -15,7 +15,8 @@ A Geological map showing how as the happines decreases the country marker grows 
 
 
 
- ![Screenshot 2023-07-31 201003](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/134963927/66429086-aff0-4f6e-8cd3-23276979664f)
+ ![Screenshot 2023-08-02 103827](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/134963927/2dc6cee9-3e75-4474-8673-bddc9548e61a)
+
 
 
 
@@ -23,7 +24,8 @@ A Geological map showing how as the happines decreases the country marker grows 
  *An organized dataframe showing the five least happiest countries based on their ranking
 
 
- ![Screenshot 2023-07-31 201011](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/134963927/13bc94bd-8ffe-4143-954b-d2781072d252)
+![Screenshot 2023-08-02 103912](https://github.com/mgtaylor119/Project1-HDI_WorldHappiness/assets/134963927/1bb6df79-e10a-4170-bc81-6ab61c2473f9)
+
 
 
 **Part 2: Happiness Rank vs. Human Development Index (HDI) Correlation**<br>
